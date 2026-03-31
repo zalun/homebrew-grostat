@@ -4,7 +4,7 @@ class Grostat < Formula
   desc "Growatt inverter data collector — full telemetry to SQLite"
   homepage "https://github.com/zalun/grostat"
   url "https://github.com/zalun/grostat/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "cefed67625287bcd54713218c90bcea6840261a2fcb662e96675529fae2006a6"
+  sha256 "3f701f26e1822467a6c63a09fec4f03897be0bca393a2d31318cdc0a86c8f938"
   license "MIT"
 
   depends_on "python@3.12"
