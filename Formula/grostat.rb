@@ -1,9 +1,9 @@
 class Grostat < Formula
   desc "Growatt inverter data collector — full telemetry to SQLite"
   homepage "https://github.com/zalun/grostat"
-  url "https://github.com/zalun/grostat/releases/download/v0.8.4/grostat-0.8.4-arm64-macos.tar.gz"
-  sha256 "2fb09adf387b4aaac6f6268787a71ea8d44aefacee97bad635cd20f259a5678c"
-  version "0.8.4"
+  url "https://github.com/zalun/grostat/releases/download/v0.8.5/grostat-0.8.5-arm64-macos.tar.gz"
+  sha256 "703b58ec3d02aedf82349c0fe9350226fc2d5dfb48dc5a7df4ca1c63e32e56bc"
+  version "0.8.5"
   license "MIT"
 
   def install
